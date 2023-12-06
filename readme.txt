@@ -1,9 +1,15 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/5Dya_UNm)
-Upload your final project files to this repo, commit the necessary changes directly here or clone it to your local machine IDE then push the updated version back the cloud of github. With the second choice, you may need to follow the following steps:
+ToDoAppJava
 
-step 1: accept the lab invitation you received, it will take you to the GitHub Classroom lab.
-step 2: you will see a repository link form the lab assingment page, click on the link to open the respository on GitHub
-step 3: clone the repo to your local manchine alternatively, you can create a new branch in the repo, or close to local machine or create a new branch on github.
-step 4: create of modify the necessary files to complete the lab assingment.
-step 5: after making changes, add, and commit then to your local repo and also push to the remote repo.
 
+The ToDoAppJava is a simple Java Swing application that allows users to manage their tasks. Users can add new tasks with details such as priority, due date, and completion status. The application provides features like deleting tasks, viewing task details, saving tasks to a file, and loading tasks from a file.
+
+Features
+Add Task: Enter task details including the task description, priority level, and due date. Click the "Add Task" button to add the task to the list.
+
+Delete Task: Select a task from the list and click the "Delete Task" button to remove the selected task.
+
+Task Details: Select a task from the list and click the "Task Details" button to view detailed information about the selected task.
+
+Save Tasks: Save the current list of tasks to a file by clicking the "Save Tasks" button. Tasks are saved in a JSON format.
+
+Load Tasks: Load previously saved tasks from a file by clicking the "Load Tasks" button. The application supports loading tasks from JSON files.
